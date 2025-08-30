@@ -1,0 +1,39 @@
+{
+  "name": "lite-admin",
+  "version": "1.0.0",
+  "description": "Lite Admin (Static webpages admin-panel)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "admin-panel",
+    "html",
+    "css",
+    "js",
+    "react",
+    "php"
+  ],
+  "author": "Valerii Hud",
+  "license": "MIT",
+  "browserslist": [
+    "last 2 chrome versions",
+    "last 2 firefox versions",
+    "last 2 ios versions"
+  ],
+  "dependencies": {
+    "core-js": "^3.45.1",
+    "jquery": "^3.7.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.28.3",
+    "@babel/preset-env": "^7.28.3",
+    "@babel/preset-react": "^7.27.1",
+    "babel-loader": "^10.0.0",
+    "gulp": "^5.0.1",
+    "gulp-cli": "^3.1.0",
+    "webpack": "^5.101.3",
+    "webpack-cli": "^6.0.1",
+    "webpack-stream": "^7.0.0"
+  }
+}
